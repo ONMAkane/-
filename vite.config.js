@@ -1,18 +1,3 @@
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
-import AutoImport from 'unplugin-auto-import/vite'
-import Components from 'unplugin-vue-components/vite'
-import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
-
-// https://vitejs.dev/config/
-export default defineConfig({
-  plugins: [
-    vue(),
-    AutoImport({
-      resolvers: [ElementPlusResolver()],
-    }),
-    Components({
-      resolvers: [ElementPlusResolver()],
-    })
-  ],
-})
+version https://git-lfs.github.com/spec/v1
+oid sha256:3776c1791aacaa9dbd52365e5b6cc4edac3a6558bf89d51fa3ed781acc0cf46b
+size 476

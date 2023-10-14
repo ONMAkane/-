@@ -1,30 +1,3 @@
-{
-  "name": "my-vue3-app",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "@element-plus/icons-vue": "^2.1.0",
-    "axios": "^1.5.1",
-    "echarts": "^5.4.3",
-    "element-plus": "^2.3.14",
-    "js-cookie": "^3.0.5",
-    "less": "^4.2.0",
-    "less-loader": "^11.1.3",
-    "mockjs": "^1.1.0",
-    "vue": "^3.3.4",
-    "vue-router": "^4.2.5",
-    "vuex": "^4.1.0"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
-    "unplugin-auto-import": "^0.16.6",
-    "unplugin-vue-components": "^0.25.2",
-    "vite": "^4.4.5"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:47ac046a3c2dcb330b089627623f5f055bbd00ded52c50d1a1bc578493b56056
+size 669
